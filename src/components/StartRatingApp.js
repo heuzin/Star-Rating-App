@@ -4,7 +4,7 @@ import StartRating from './StarRating';
 function App() {
   return (
     <div className="App">
-      <StartRating />
+      <StartRating style={{ backgroundColor: "lightblue" }} />
     </div>
   );
 }
